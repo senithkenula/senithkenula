@@ -13,6 +13,7 @@
 - 🔗 Connect on [LinkedIn](https://linkedin.com/in/senithkenula)
 
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=senithkenula)
+[![LinkedIn](https://img.shields.io/badge/Follow-blue?logo=linkedin)](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=senithkenula)
 
 
 ---
